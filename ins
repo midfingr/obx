@@ -1,4 +1,11 @@
 #!/bin/bash
+sudo pacman -S haveged
+sudo systemctl enable haveged
+sudo systemctl start haveged
+sudo pacman-key --init
+sudo pacman-key --populate archlinux
+sudo pacman -Syy
+
 sudo pacman -S openbox obconf lxappearance-obconf accountsservice xfce4-panel xfdesktop gvfs thunar-archive-plugin thunar-volman xfce4-whiskermenu-plugin networkmanager network-manager-applet python2-xdg lxsession lxterminal leafpad xfce4-settings xfce4-power-manager parcellite ristretto tumbler xfce4-notifyd mate-system-monitor ttf-liberation qtcurve-qt4 zip unzip unrar p7zip wget lynx lightdm lightdm-gtk-greeter ncdu youtube-dl speedtest-cli xorg-xprop wmctrl gstreamer0.10-good-plugins oblogout xdg-user-dirs
 
 mkdir -p .config-openbox
