@@ -16,6 +16,8 @@ echo "lxpolkit &" >> ~/.config/openbox/autostart
 echo "compton -b &" >> ~/.config/openbox/autostart
 echo "xfce4-power-manager &" >> ~/.config/openbox/autostart
 
+sudo cp obx/chrome-avatars/*.png /usr/share/pixmaps/faces
+
 xdg-user-dirs-update
 
 sudo systemctl enable accounts-daemon
