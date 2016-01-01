@@ -1,0 +1,7 @@
+[Added Associations]
+application/x-shellscript=leafpad.desktop;
+application/x-compressed-tar=org.gnome.FileRoller.desktop;
+text/plain=leafpad.desktop;
+application/xml=leafpad.desktop;
+application/x-desktop=leafpad.desktop;
+application/zip=org.gnome.FileRoller.desktop;

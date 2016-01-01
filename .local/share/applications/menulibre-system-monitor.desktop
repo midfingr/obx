@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=System Monitor
+Icon=utilities-system-monitor
+Exec=mate-system-monitor
+NoDisplay=false
+Categories=System;X-XFCE;X-Xfce-Toplevel;
+StartupNotify=false
+Terminal=false

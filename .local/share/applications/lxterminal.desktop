@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Terminal
+GenericName=Terminal
+Comment=Use the command line
+Icon=lxterminal
+TryExec=lxterminal
+Exec=lxterminal
+NoDisplay=false
+Categories=GTK;System;TerminalEmulator;
+Keywords=console;command line;execute;
+StartupNotify=false
+Terminal=false
