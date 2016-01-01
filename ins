@@ -16,6 +16,7 @@ echo "lxpolkit &" >> ~/.config/openbox/autostart
 echo "compton -b &" >> ~/.config/openbox/autostart
 echo "xfce4-power-manager &" >> ~/.config/openbox/autostart
 
+sudo mv obx/oblogout.conf /etc/oblogout.conf
 sudo cp obx/chrome-avatars/*.png /usr/share/pixmaps/faces
 chmod +x obx/aur_ins
 obx/aur_ins
