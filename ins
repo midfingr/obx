@@ -10,9 +10,9 @@ sudo pacman -S openbox obconf lxappearance-obconf accountsservice xfce4-mixer xf
 
 mkdir -p ~/.config/openbox
 cp -r /etc/xdg/openbox/* ~/.config/openbox
-echo xfce4-panel & >> ~/.config/openbox/autostart
-echo xfdesktop & >> ~/.config/openbox/autostart
-echo lxpolkit & >> ~/.config/openbox/autostart
+echo "xfce4-panel &" >> ~/.config/openbox/autostart
+echo "xfdesktop &" >> ~/.config/openbox/autostart
+echo "lxpolkit &" >> ~/.config/openbox/autostart
 
 xdg-user-dirs-update
 
