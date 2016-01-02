@@ -1,4 +1,5 @@
 #!/bin/bash
+sudo mv obx/pacman.conf /etc/pacman.conf
 sudo pacman -S haveged
 sudo systemctl enable haveged
 sudo systemctl start haveged
