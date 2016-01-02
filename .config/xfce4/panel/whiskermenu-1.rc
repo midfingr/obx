@@ -1,7 +1,7 @@
 favorites=Thunar.desktop,lxterminal.desktop,firefox.desktop
-recent=firefox.desktop,lxterminal.desktop,Thunar.desktop,menulibre-system-monitor.desktop,mugshot.desktop
+recent=firefox.desktop,lxterminal.desktop,Thunar.desktop,dbx_preference.desktop,panel-preferences.desktop
 button-title=Applications
-button-icon=distributor-logo-mate
+button-icon=distributor-logo-arch-linux
 button-single-row=false
 show-button-title=false
 show-button-icon=true

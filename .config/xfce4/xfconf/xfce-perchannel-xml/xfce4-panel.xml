@@ -10,7 +10,7 @@
       <property name="position-locked" type="bool" value="true"/>
       <property name="plugin-ids" type="array">
         <value type="int" value="1"/>
-        <value type="int" value="2"/>
+        <value type="int" value="9"/>
         <value type="int" value="3"/>
         <value type="int" value="4"/>
         <value type="int" value="5"/>
@@ -20,10 +20,6 @@
   </property>
   <property name="plugins" type="empty">
     <property name="plugin-1" type="string" value="whiskermenu"/>
-    <property name="plugin-2" type="string" value="tasklist">
-      <property name="show-handle" type="bool" value="false"/>
-      <property name="flat-buttons" type="bool" value="true"/>
-    </property>
     <property name="plugin-3" type="string" value="separator">
       <property name="style" type="uint" value="0"/>
       <property name="expand" type="bool" value="true"/>
@@ -33,12 +29,16 @@
     </property>
     <property name="plugin-5" type="string" value="systray">
       <property name="names-visible" type="array">
+        <value type="string" value="vlc"/>
         <value type="string" value="networkmanager applet"/>
         <value type="string" value="pamac-tray"/>
         <value type="string" value="parcellite"/>
       </property>
       <property name="show-frame" type="bool" value="false"/>
       <property name="size-max" type="uint" value="24"/>
+    </property>
+    <property name="plugin-9" type="string" value="dockbarx">
+      <property name="orient" type="string" value="bottom"/>
     </property>
   </property>
 </channel>
