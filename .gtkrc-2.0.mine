@@ -39,4 +39,27 @@ style "xfdesktop-icon-view" {
     fg[SELECTED] = "#ffffff"
     fg[ACTIVE] = "#ffffff"
 }
+
+## Whisker Menu Theme -- Gnumix Blue ##
+
+style "darkback"
+{
+ bg[NORMAL] = "#2d2d2d"
+ bg[ACTIVE] = "#00a7fc"
+ bg[PRELIGHT] = "#00a7fc"
+ fg[NORMAL] = "#fff"
+ fg[ACTIVE] = "#000000"
+ fg[PRELIGHT] = "#000000"
+}
+widget "whiskermenu-window*" style "darkback"
+
+style "xfdesktop-icon-view" {
+    XfdesktopIconView::label-alpha = 10
+    base[NORMAL] = "#000000"
+    base[SELECTED] = "#71B9FF"
+    base[ACTIVE] = "#71B9FF"
+    fg[NORMAL] = "#fcfcfc"
+    fg[SELECTED] = "#ffffff"
+    fg[ACTIVE] = "#ffffff"
+}
 widget_class "*XfdesktopIconView*" style "xfdesktop-icon-view"
