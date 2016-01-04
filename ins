@@ -26,6 +26,9 @@ cp obx/.gtkrc-2.0 ~/.gtkrc-2.0
 cp obx/.gtkrc-2.0.mine ~/.gtkrc-2.0.mine
 
 sudo mv obx/oblogout.conf /etc/oblogout.conf
+sudo cp -r obx/Control_Panel /usr/share
+sudo mv obx/control_panel /usr/bin
+sudo mv obx/obx-control-panel.desktop /usr/share/applications
 sudo mkdir /usr/share/pixmaps/faces
 sudo cp obx/chrome-avatars/*.png /usr/share/pixmaps/faces
 chmod +x obx/aur_ins
