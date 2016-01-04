@@ -5,3 +5,4 @@ text/plain=leafpad.desktop;
 application/xml=leafpad.desktop;
 application/x-desktop=leafpad.desktop;
 application/zip=org.gnome.FileRoller.desktop;
+text/x-scheme=leafpad.desktop;

@@ -7,22 +7,22 @@
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/midfingr/Pictures/Bing/GapstowBridge_ZH-CN9569411106_1920x1200.jpg"/>
+          <property name="last-image" type="string" value="/home/midfingr/Pictures/Bing/RWBlackbird_ZH-CN7920273020_1920x1200.jpg"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/midfingr/Pictures/Bing/GapstowBridge_ZH-CN9569411106_1920x1200.jpg"/>
+          <property name="last-image" type="string" value="/home/midfingr/Pictures/Bing/RWBlackbird_ZH-CN7920273020_1920x1200.jpg"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/midfingr/Pictures/Bing/GapstowBridge_ZH-CN9569411106_1920x1200.jpg"/>
+          <property name="last-image" type="string" value="/home/midfingr/Pictures/Bing/RWBlackbird_ZH-CN7920273020_1920x1200.jpg"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/midfingr/Pictures/Bing/GapstowBridge_ZH-CN9569411106_1920x1200.jpg"/>
+          <property name="last-image" type="string" value="/home/midfingr/Pictures/Bing/RWBlackbird_ZH-CN7920273020_1920x1200.jpg"/>
         </property>
       </property>
     </property>
@@ -33,6 +33,9 @@
   </property>
   <property name="desktop-icons" type="empty">
     <property name="single-click" type="bool" value="true"/>
+    <property name="icon-size" type="uint" value="48"/>
+    <property name="use-custom-font-size" type="bool" value="true"/>
+    <property name="font-size" type="double" value="10.000000"/>
   </property>
   <property name="last" type="empty">
     <property name="window-width" type="int" value="652"/>

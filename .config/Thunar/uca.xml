@@ -10,4 +10,23 @@
 	<startup-notify/>
 	<directories/>
 </action>
+<action>
+	<icon></icon>
+	<name>Ed_it as Root</name>
+	<unique-id>1451945906262370-1</unique-id>
+	<command>sudo leafpad %f</command>
+	<description></description>
+	<patterns>*</patterns>
+	<other-files/>
+	<text-files/>
+</action>
+<action>
+	<icon></icon>
+	<name>Open as Root</name>
+	<unique-id>1451946687638669-1</unique-id>
+	<command>sudo thunar %f</command>
+	<description></description>
+	<patterns>*</patterns>
+	<directories/>
+</action>
 </actions>

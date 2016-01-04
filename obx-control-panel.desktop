@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Obx Control Panel
+Comment=
+Exec=control_panel
+Icon=preferences-desktop
+Path=
+Terminal=false
+StartupNotify=false
+Categories=GTK;Settings;DesktopSettings;

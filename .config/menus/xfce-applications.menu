@@ -39,6 +39,8 @@
 			<Menuname>Screensavers</Menuname>
 			<Filename>mugshot.desktop</Filename>
 			<Filename>gtk-theme-config.desktop</Filename>
+			<Filename>dbx_preference.desktop</Filename>
+			<Filename>obx-control-panel.desktop</Filename>
 			<Merge type="files" />
 		</Layout>
 	</Menu>
@@ -54,6 +56,7 @@
 			<Filename>menulibre.desktop</Filename>
 			<Filename>Thunar-folder-handler.desktop</Filename>
 			<Filename>Thunar.desktop</Filename>
+			<Filename>DockX.desktop</Filename>
 			<Merge type="files" />
 		</Layout>
 	</Menu>
@@ -70,6 +73,7 @@
 			<Filename>linguist-qt4.desktop</Filename>
 			<Filename>qdbusviewer-qt4.desktop</Filename>
 			<Filename>gtk3-widget-factory.desktop</Filename>
+			<Filename>yad-icon-browser.desktop</Filename>
 			<Merge type="files" />
 		</Layout>
 	</Menu>

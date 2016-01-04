@@ -12,7 +12,7 @@
 	<entry name="mode" mtime="1451693992" type="string">
 		<stringvalue>panel</stringvalue>
 	</entry>
-	<entry name="position" mtime="1451694030" type="string">
+	<entry name="position" mtime="1451947012" type="string">
 		<stringvalue>left</stringvalue>
 	</entry>
 </gconf>

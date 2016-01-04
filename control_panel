@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# Simple Control Panel for Chromixium OS
+
+yad --icons --read-dir="/usr/share/Control_Panel" --width=750 --height=600 --sort-by-name --single-click \
+--window-icon=preferences-desktop --image=preferences-desktop --image-on-top --center \
+--title="Obx Control Panel" --text='<span font_weight="bold">Change desktop, system and device settings</span>\nSome utilities require the administrator password.' --button=gtk-close
