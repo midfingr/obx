@@ -2,12 +2,6 @@
 <gconf>
 	<entry name="launchers" mtime="1451947412" type="list" ltype="string">
 		<li type="string">
-			<stringvalue>thunar;/home/midfingr/.local/share/applications/Thunar.desktop</stringvalue>
-		</li>
-		<li type="string">
-			<stringvalue>lxterminal;/home/midfingr/.local/share/applications/lxterminal.desktop</stringvalue>
-		</li>
-		<li type="string">
 			<stringvalue>firefox;/usr/share/applications/firefox.desktop</stringvalue>
 		</li>
 		<li type="string">
